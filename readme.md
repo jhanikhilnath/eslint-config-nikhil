@@ -7,7 +7,7 @@ These are my settings for eslint and prettier
 - Lints JavaScript based on the latest standards
 - Fixes issues and formatting errors with Prettier
 - Lints + Fixes inside of html script tags
-- You can see all the [rules here](https://github.com/wesbos/eslint-config-nikhil/blob/master/.eslintrc.json) - I follow these rules All the Time. You are welcome to change anything you don't like
+- You can see all the [rules here](https://github.com/jhanikhilnath/eslint-config-nikhil/blob/master/.eslintrc.json) - I follow these rules All the Time. You are welcome to change anything you don't like
 
 ## Installing
 
