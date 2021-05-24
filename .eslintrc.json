@@ -1,6 +1,6 @@
 {
   "extends": ["airbnb", "prettier", "plugin:node/recommended"],
-  "plugins": ["prettier"],
+  "plugins": ["html", "prettier"],
   "rules": {
     "import/no-dynamic-require": "off",
     "spaced-comment": "off",
