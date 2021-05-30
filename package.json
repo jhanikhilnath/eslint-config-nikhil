@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A Eslint Config Used by Nikhil",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhanikhilnath/eslint-config-nikhil.git"
+  },
   "scripts": {},
   "keywords": [],
   "author": "",
