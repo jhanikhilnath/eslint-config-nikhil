@@ -12,6 +12,7 @@
     "no-process-exit": "off",
     "no-var": "error",
     "no-const-assign": "error",
+    "no-plusplus": "off",
     "no-param-reassign": "off",
     "no-return-await": "off",
     "no-confusing-arrow": "off",
